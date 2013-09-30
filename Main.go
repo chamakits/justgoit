@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"justgoit/files"
+	"github.com/chamakits/justgoit/files"
 )
 
 func main() {
